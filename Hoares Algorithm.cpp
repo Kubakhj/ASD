@@ -49,4 +49,3 @@ int main()
 	cout << T[Hoare(T, 0, N - 1, 4)];
 	return 0;
 }
-
